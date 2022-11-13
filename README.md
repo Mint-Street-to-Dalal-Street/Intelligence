@@ -1,4 +1,4 @@
-# Market-Intelligence
+# Intelligence
 
 ML models that can be used for:
 
